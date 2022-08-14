@@ -1,0 +1,5 @@
+node_modules
+package-lock.json
+cypress/.DS_Store
+cypress/reports/html/*.html
+cypress/downloads/*.csv

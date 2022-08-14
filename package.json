@@ -1,0 +1,14 @@
+{
+  "name": "screener-auto",
+  "version": "1.0.0",
+  "description": "automation repo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amlcloud/screenerauto.git"
+  },
+  "author": "padmashree jayaram",
+  "dependencies": {
+    "cypress": "^10.4.0",
+    "typescript": "^4.7.4"
+  }
+}
