@@ -2,7 +2,7 @@
 
 import { LoginPage } from "../pages/loginPage";
 
-describe('seeder login Logout functionality tests', () => {
+describe('screener login Logout functionality tests', () => {
 
   const loginPage = new LoginPage();
 
