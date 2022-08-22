@@ -3,3 +3,5 @@ package-lock.json
 cypress/.DS_Store
 cypress/reports/html/*.html
 cypress/downloads/*.csv
+cypress/reports/.DS_Store
+.DS_Store
